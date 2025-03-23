@@ -73,17 +73,17 @@ person.addTask({
     status: "Pending"
 })
 
-//
 
- //person.markComplete(6);
+
+person.markComplete(6);
  
 
- //person.removeTask(2);
+person.removeTask(2);
 
-// person.getPendingTasks();
+person.getPendingTasks();
 
- //person.getCompletedTasks();
+person.getCompletedTasks();
 
- person.sortedTask();
-//person.getAllTasks();
+person.sortedTask();
+person.getAllTasks();
 
